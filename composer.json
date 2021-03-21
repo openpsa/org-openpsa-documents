@@ -15,7 +15,7 @@
     "require": {
         "openpsa/midcom-core": "dev-main",
         "openpsa/org-openpsa-core": "dev-main",
-        "openpsa/org-openpsa-helpes": "dev-main",
+        "openpsa/org-openpsa-helpers": "dev-main",
         "openpsa/org-openpsa-widgets": "dev-main"
     },
     "prefer-stable": true,
