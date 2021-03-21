@@ -1,0 +1,111 @@
+---# MidCOM String Database
+---VERSION 2.1.0
+---LANGUAGE de
+
+---STRING author
+Verfasser
+---STRINGEND
+
+---STRING create document
+Dokument erstellen
+---STRINGEND
+
+---STRING directory
+Verzeichnis
+---STRINGEND
+
+---STRING document
+Dokument
+---STRINGEND
+
+---STRING search title
+Dokumenten-Suche
+---STRINGEND
+
+---STRING document status
+Dokumenten-Status
+---STRINGEND
+
+---STRING documents
+Dokumente
+---STRINGEND
+
+---STRING draft
+Entwurf
+---STRINGEND
+
+---STRING edit directory
+Verzeichnis bearbeiten
+---STRINGEND
+
+---STRING delete directory
+Verzeichnis löschen
+---STRINGEND
+
+---STRING final
+Final
+---STRINGEND
+
+---STRING folder
+Ordner
+---STRINGEND
+
+---STRING folders
+Ordner
+---STRINGEND
+
+---STRING new directory
+Neues Verzeichnis
+---STRINGEND
+
+---STRING new document
+Neues Dokument
+---STRINGEND
+
+---STRING next version
+Nächste Version
+---STRINGEND
+
+---STRING older versions
+Ältere Versionen
+---STRINGEND
+
+---STRING org.openpsa.documents
+Dokumenten-Verwaltung
+---STRINGEND
+
+---STRING previous version
+Vorherige Version
+---STRINGEND
+
+---STRING review
+Überprüfung
+---STRINGEND
+
+---STRING score: %d%%
+Bewertung: %d%%
+---STRINGEND
+
+---STRING search
+Suchen
+---STRINGEND
+
+---STRING text/plain
+Einfacher Text
+---STRINGEND
+
+---STRING version %s (%s)
+Version %s (%s)
+---STRINGEND
+
+---STRING no results
+Keine Ergebnisse
+---STRINGEND
+
+---STRING creator
+Ersteller
+---STRINGEND
+
+---STRING title
+Titel
+---STRINGEND

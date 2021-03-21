@@ -1,0 +1,65 @@
+.wide #document_search
+{
+    margin-bottom: .4em
+}
+.wide #document_search h2
+{
+    display: inline;
+    font-size: 1em;
+    font-weight: normal
+}
+
+.wide #document_search form
+{
+    display: inline;
+}
+
+dl.search_results dt a
+{
+    font-weight: bold;
+    padding-bottom: .3em;
+    display: block;
+    clear: left
+}
+
+dl.search_results dd
+{
+    margin-bottom: 1em
+}
+
+dl.search_results dd .icon
+{
+    margin: .3em .5em 1em 0;
+    float: left
+}
+
+dl.search_results dd .icon img
+{
+    float: left
+}
+
+dl.search_results ul
+{
+    list-style-type: none
+}
+
+.elfinder-button-icon.elfinder-button-icon-details {
+    background-position: 0 -176px;
+}
+/** copied from theme since selectors are too weak */
+.elfinder .elfinder-contextmenu .ui-state-active {
+    background: #6293df;
+    color: #fff;
+}
+.elfinder .elfinder-contextmenu .ui-state-hover {
+    background: #3875d7;
+    color:#fff;
+}
+
+.elfinder .ui-resizable-handle {
+	position: absolute
+}
+
+.elfinder .ui-resizable-handle:after {
+	opacity: 0
+}
