@@ -16,7 +16,8 @@
         "openpsa/midcom-core": "dev-main",
         "openpsa/org-openpsa-core": "dev-main",
         "openpsa/org-openpsa-helpers": "dev-main",
-        "openpsa/org-openpsa-widgets": "dev-main"
+        "openpsa/org-openpsa-widgets": "dev-main",
+        "studio-42/elfinder": "> 2.1.42"
     },
     "prefer-stable": true,
     "minimum-stability": "dev",
